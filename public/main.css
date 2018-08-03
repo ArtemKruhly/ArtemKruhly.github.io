@@ -1,0 +1,45 @@
+
+html {
+    background: url("catt.png") center center fixed  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    text-align: right;
+}
+
+
+.header {
+    height: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.todoItems {
+    text-align: right;
+    margin-bottom: 20px;
+    padding-right: 10%;
+}
+
+h1 {
+    color: #f83957;
+    font-size: 80px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.lists {
+    color: white;
+}
+
+.cont {
+    padding-right: 10%;
+}
+
+input {
+    padding: 8px;
+    border-radius: 4px;
+}
